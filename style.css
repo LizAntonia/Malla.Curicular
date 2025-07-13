@@ -1,0 +1,46 @@
+cuerpo {
+  Font-Family: Arial, Sans-serif;
+  fondo-color: #f9f9f9;
+  relleno: 30Px;
+  margen: 0;
+}
+
+H1 {
+  text-align: centro;
+  color: #003366;
+}
+
+.semestre {
+  fondo-color: #ffffff;
+  relleno: 15Px;
+  margen-abajo: 20Px;
+    frontera-izquierda.: 5  Px sólido #0077cc;
+  frontera-radio: 8Px;
+    sombra de caja: 0 0 10  Px rgba(0,0,0,0.05);
+}
+
+.semestre h2 {
+  margen-top: 0;
+  color: #0077cc;
+}
+
+.ramo {
+  relleno: 8Px 12Px;
+  margen: 6Px 0;
+  fondo-color: # desempeñado;desempeñado;
+  frontera-radio: 6Px;
+  cursor: puntero;
+  fuente-peso: audaz;
+  transición: Fondo 0.2s;
+}
+
+.ramo:flotar {
+  fondo-color: #c6e7ff;
+}
+
+.info {
+ Mostrar: display: Ninguno;
+ Relleno-izquierda: 20 acolchado-izquierda: 20Px;
+   Tamaño de fuente: 14   Fuente-tamaño: 14Px;
+ color: #444; color: #444;
+}
